@@ -72,7 +72,7 @@ where
     b(y,z\beta) = z \frac{R}{R+ y \sin \beta}
     \end{equation}
     
-    The values of $\tilde{p}^F (\beta, a(x,y,\beta),b(x,y,z,\beta)) $ are obtained by means of interpolation employing bi-cubic splines.
+The values of :math:`\tilde{p}^F (\beta, a(x,y,\beta),b(x,y,z,\beta))` are obtained by means of interpolation employing bi-cubic splines.
 
 
 
