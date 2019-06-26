@@ -18,8 +18,8 @@ Full 3D reconstruction is usually performed using this algorithm, but we will he
 more efficiently reconstruct an axisymmetric tomogram.
 
 
-In 3D
------
+Full 3D reconstruct
+-------------------
 
 In its original form, the reconstructed tomogram :math:`f_{FDK}(x,y,z)` is determined by the following equation:
 
