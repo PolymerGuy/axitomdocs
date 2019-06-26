@@ -5,12 +5,12 @@
 
 FDK
 ===
-The Feldkamp David Kress (FDK) algorithm is often used in the reconstruction of tomographic data
+The Feldkamp David Kress (FDK) algorithm is often used in the reconstruction of tomographic data where the radiograms are
 acquired using a conical X-ray beam. The original article is found here:
 
     Feldkamp, L. A. (1984). Practical cone-beam algorithm Sfrdr I _ f. America, 1(6), 612–619. https://doi.org/10.1364/JOSAA.1.000612
 
-The notation we will use in the following document is taken from this study:
+The notation we will use in the following document is taken from this thesis:
 
     Turbell, H. (2001). Cone-Beam Reconstruction Using Filtered Backprojectionn. Science And Technology. Retrieved from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.5224&amp;rep=rep1&amp;type=pdf
 
@@ -82,7 +82,7 @@ Axis-symmetry
 In the case where the tomogram :math:`f_{FDK}(x,y,z)` is axisymmetric around a rotational axis tomogram :math:`z`, all radial 
 slices of the tomogram should be equal.
 
-We here reduce the tomographic problem by assuming that all projections :math:`p (\beta,a,b)` are independent of :math:`\beta`,
+We here reduce the tomographic problem by assuming that all projections :math:`p` are independent of :math:`\beta`,
 and we reconstruct only the plaing laying in :math:`x=0` giving:
 
 

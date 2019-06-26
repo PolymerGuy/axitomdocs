@@ -6,6 +6,9 @@
 Welcome to AXITOM's documentation!
 ==================================
 
+This is the start page
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Getting started:
@@ -20,4 +23,3 @@ Welcome to AXITOM's documentation!
 
    FDK
 
-This is the start page
